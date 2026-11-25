@@ -1,5 +1,12 @@
 {
-  "pages": [],
-  "nextPage": 1,
+  "pages": [
+    {
+      "id": "page01",
+      "title": "Access check",
+      "color": "blue",
+      "cards": []
+    }
+  ],
+  "nextPage": 2,
   "nextCard": 1
 }
